@@ -1,4 +1,9 @@
-Hey dudes, after trying alot of autoclickers realizing non of them actually work like they should i decided to try myself, i have succesfully bypassed windows system so we all can click around 500 cps consistently :) 
+Tired of autoclickers that don't work? Same — so I built one. Hits ~500 CPS consistently.
 
-If you arent comftable downloading a .exe file you can download the py and execute it in the cmd with this command "py -m PyInstaller --onefile --noconsole autoclicker.py"
-hope you will give me a like since i love the project tytytytyty
+Don't trust .exe files? Grab the .py and build it yourself:
+
+py -m PyInstaller --onefile --noconsole autoclicker.py
+
+Windows Defender might flag it on first launch — just hit "More info" → "Run anyway." Normal for unsigned apps.
+
+Like if it helped, enjoy!
